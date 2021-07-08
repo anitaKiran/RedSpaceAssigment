@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="fragment_1">Characters</string>
+    <string name="fragment_2">Locations</string>
+    <string name="fragment_3">Episodes</string>
+    <string name="message_something_went_wrong">Something went wrong!</string>
+    <string name="unable_to_load">Unable to load data from Server! Please try again</string>
+</resources>

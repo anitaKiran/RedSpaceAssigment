@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragment_character"
+        android:icon="@drawable/ic_baseline_supervisor_account_24"
+        android:title="@string/fragment_1"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/fragment_location"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="@string/fragment_2"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/fragment_episode"
+        android:icon="@drawable/ic_baseline_live_tv_24"
+        android:title="@string/fragment_3"
+        app:showAsAction="withText"/>
+</menu>
